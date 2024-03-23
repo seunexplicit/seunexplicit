@@ -1,5 +1,5 @@
 ### <h3 align="center">Hi there, I am Tim 👋</h3>
-                                       A Software Engineer (Backend, Mobile and Frontend)
+                                       A Senior Software Engineer (Backend, Mobile and Frontend)
 <p align="center">
 <a href="https://www.linkedin.com/in/timothy-olusanya-77baa4170/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
