@@ -8,8 +8,8 @@
 
 <p align="center">You can contact me on: <a href='mailto:seunxplicit@gmail.com'>seunxplicit@gmail.com</a></p>
 
-![](https://github-readme-stat-4zz3ykqun.vercel.app/api/pin/?repo=react-http-query&username=seunexplicit&theme=dark#gh-dark-mode-only)
+![](https://github-readme-stat-4zz3ykqun.vercel.app/api/pin/?repo=react-http-query&username=seunexplicit&theme=tokyonight#gh-dark-mode-only)
 
-![Github Stat](https://github-readme-stat-4zz3ykqun.vercel.app/api?repo=github-readme-stat&username=seunexplicit&show_icons=true&theme=dark#gh-dark-mode-only)
+![Github Stat](https://github-readme-stat-4zz3ykqun.vercel.app/api?repo=github-readme-stat&username=seunexplicit&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stat-4zz3ykqun.vercel.app/api/top-langs/?repo=github-readme-stat&username=seunexplicit&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Languages](https://github-readme-stat-4zz3ykqun.vercel.app/api/top-langs/?repo=github-readme-stat&username=seunexplicit&layout=compact&theme=tokyonight#gh-dark-mode-only)
