@@ -6,10 +6,12 @@
 </a>&nbsp;&nbsp;
 </p>
 
-You can contact me on: <a href='mailto:seunxplicit@gmail.com'>seunxplicit@gmail.com</a>
+<p align="center">You can contact me on: <a href='mailto:seunxplicit@gmail.com'>seunxplicit@gmail.com</a></p>
 
 ![](https://github-readme-stat-4zz3ykqun.vercel.app/api/pin/?repo=react-http-query&username=seunexplicit)
 
+<div style="display: flex; justify-content: space-evenly">
 ![Github Stat](https://github-readme-stat-4zz3ykqun.vercel.app/api?repo=github-readme-stat&username=seunexplicit&show_icons=true)
 
 ![Top Languages](https://github-readme-stat-4zz3ykqun.vercel.app/api/top-langs/?repo=github-readme-stat&username=seunexplicit&layout=compact)
+</div>
