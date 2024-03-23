@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/timothy-olusanya-77baa4170/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+</p>
 
 ![Readme Card](https://github-readme-stat-4zz3ykqun.vercel.app/api/pin/?repo=react-http-query&username=seunexplicit)
 
